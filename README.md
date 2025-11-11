@@ -1,17 +1,15 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
-                                                                                                               
-                                                                                                               # Date: 11/11/2025
-                                                                                                               # Register no. 212223040225
-                                                                                                               # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
-                                                                                                               
-                                                                                                               # AI Tools Required: 
-                                                                                                               Lovable AI
-                                                                                                               
-                                                                                                               
-                                                                                                               # Explanation: 
-                                                                                                               Prompt:
+# Date: 11/11/2025
+# Register no. 212223040225
+
+## Aim: 
+To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+## AI Tools Required:
+Lovable AI
+## Explanation:
+Prompt:
 "Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
-Procedure:
+## Procedure:
 1. Define the core requirements of a personal productivity assistant.
 2. Identify and construct appropriate prompts for each task using an LLM (e.g., ChatGPT).
 3. Simulate natural user interaction through a simple interface or command-line system.
@@ -30,7 +28,7 @@ o Notify user of overlapping appointments or free time slots.
 3. Wellness Tips Generator:
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
-# Prompt:
+## Prompt:
 You are **Asha**, an AI-powered Personal Productivity Assistant built to help Niranjani 👩‍💻 stay organized and balanced.  
 You manage daily tasks, schedules, wellness reminders, and quick queries using natural conversation.
 
@@ -105,7 +103,7 @@ Hey Niranjani 👋! I’m Asha, your productivity buddy.
 Want me to start with tasks, your schedule, or a quick wellness tip today?
 
 
-# Output:
+## Output:
 https://asha-your-daily-guide.lovable.app/
 
 <img width="1408" height="825" alt="Screenshot 2025-10-23 091914" src="https://github.com/user-attachments/assets/f3b9aa5c-cd17-460b-a804-7b544130ce29" />
@@ -115,7 +113,7 @@ https://asha-your-daily-guide.lovable.app/
 <img width="1400" height="625" alt="image" src="https://github.com/user-attachments/assets/4cd8e8be-4076-4156-9419-789288e69343" />
 
 
-# Result: 
+## Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
  Understand how to tailor LLM prompts to real-life applications.
  Foster creativity by designing features suited to their personal or academic lives.
